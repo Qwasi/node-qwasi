@@ -1,0 +1,19 @@
+*.log
+*.sock
+*.json
+*.out
+*.swp
+.tern-port
+!package.json
+!defaults.json
+newrelic.js
+# ignore some emacs file
+*~
+[#]*[#]
+.\#*
+.last_note
+.last_event
+.last_dlr
+node_modules
+var
+etc
