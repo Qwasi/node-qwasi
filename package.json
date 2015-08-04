@@ -1,5 +1,5 @@
 {
-  "name": "node-qwasi",
+  "name": "qwasi",
   "version": "2.1.0",
   "description": "Qwasi node.js library",
   "main": "index.js",
