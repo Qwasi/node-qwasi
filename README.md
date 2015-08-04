@@ -38,10 +38,10 @@ Sends a message to a user token, device, or channel.
 ```
 qwasi['message.send']('usertoken', 'Hello, Qwasi!', { foo: "bar" }, function(err, response) {
     if (err) {
-	console.log(err);
+		console.log(err);
     }
     if (response) {
-	console.log(response);
+		console.log(response);
     }
 });
 ````
