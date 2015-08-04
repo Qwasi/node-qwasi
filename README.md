@@ -58,7 +58,5 @@ git clone https://github.com/qwasi/node-qwasi.git
 ### Include the script in the module you wish to use qwasi
 
 ```html
-<pre>
-	<script src="node-qwasi/include/qwasi.js"></script>
-</pre>
+<script src="node-qwasi/include/qwasi.js"></script>
 ```
