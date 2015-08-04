@@ -45,3 +45,20 @@ qwasi['message.send']('usertoken', 'Hello, Qwasi!', { foo: "bar" }, function(err
     }
 });
 ````
+
+## Browser Support
+A browser friendly library is at include/qwasi.js
+
+### Clone the repository into your web project
+
+```
+git clone https://github.com/qwasi/node-qwasi.git
+```
+
+### Include the script in the module you wish to use qwasi
+
+```html
+<pre>
+	<script src="node-qwasi/include/qwasi.js"></script>
+</pre>
+```
